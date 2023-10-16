@@ -36308,7 +36308,7 @@ A.BN.prototype={
 P(a){var s=null
 return new A.rn(B.Fe,"About Me",A.a6t(s,s,B.Cj,s,A.abc(A.mf())),!1,s)}}
 A.CO.prototype={
-P(a){return A.a68(A.fN("I am a mobile application developer, a Certified IT Professional and a Professional Scrum Master (PSM registered) I have 10 years+ experience of mobile app development (iOS and Android), API development, technical architecture, solutions implementation, project management and Agile development.",null,$.a4Z(),B.e4),"Profile")}}
+P(a){return A.a68(A.fN("I am a mobile application developer specializing in Flutter. I am a Certified IT Professional (CITP) and Professional Scrum Master (PSM registered) I have 10 years+ experience of mobile app development (iOS and Android), API development, technical architecture, solutions implementation, project management and Agile development.",null,$.a4Z(),B.e4),"Profile")}}
 A.tv.prototype={
 P(a){var s=null
 return A.eb(s,A.dw(A.a([A.u0(s,30,s),new A.CO(s),new A.Ae(s),new A.zW(s)],t.p),B.P,B.R,s,B.a4,B.L,s,s,B.M),B.i,s,s,s,s,s,s)}}
